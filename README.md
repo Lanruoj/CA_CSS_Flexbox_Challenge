@@ -17,7 +17,3 @@ In this challenge, we'll test your understanding of Flexbox in CSS. Modify the t
 3. Using the ```align-items``` property, align the items in the center of the cross axis.
 
     - The elements should now be centered in on the browser
-
-4. Play around with other ways of aligning things using ```justify-content``` and ```align-items```
-
-    - ie. ```space-around```, ```space-between```, ```flex-start```, ```flex-end```.
